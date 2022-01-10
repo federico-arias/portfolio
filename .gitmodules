@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/federico-arias/portfolio-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/federico-arias/portfolio-frontend
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/federico-arias/portfolio-terraform
